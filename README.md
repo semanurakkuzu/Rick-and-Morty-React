@@ -1,4 +1,4 @@
-# Rick and Morty React 
+# Rick and Morty React Project 
 
 This project is developed with ReactJs and typescript. Used SASS for styles. Used Redux for global states. The aim of the project is to create cards with the locations data received from the Rick and Morty API, and to show the characters data by location. You can filter the characters by status.
 Used React skeleton library for loading status of images. Used  react pagination library in locations page in addition.
